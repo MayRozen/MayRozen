@@ -4,11 +4,11 @@
 I am a second-year computer science student at Ariel University and an aspiring software developer.<br>
 In my role as a reservist C4I officer, I have gained valuable experience in radio and transmission systems, as well as in training, management, and mentoring.
 
-## Skills 💻
-Programming Languages: Python, Java, C, C++, C#, Hack, Mips, Assembly<br>
-Database Management: SQL, MongoDB, Cypher, XML, JSON<br>
-Object-Oriented Programming (OOP)<br>
-Version Control: Git, GitHub
+## Skills
+🖥️ Programming Languages: Python, Java, C, C++, C#, Hack, Mips, Assembly<br>
+🗃️ Database Management: SQL, MongoDB, Cypher, XML, JSON<br>
+🧩 Object-Oriented Programming (OOP)<br>
+🧑‍💻 Version Control: Git, GitHub
 
 ## Additional Skills
 📡 C4I Systems<br>
@@ -17,7 +17,7 @@ Version Control: Git, GitHub
 ⏱️ Real-Time Decision Making<br>
 🗣️ Communication and Interpersonal Skills<br>
 🧑‍🏫 Training and Mentoring<br>
-🧩 Problem Solving and Critical Thinking<br>
+🧠 Problem Solving and Critical Thinking<br>
 🔄 Adaptability and Flexibility<br>
 ⏳ Time Management<br>
 
