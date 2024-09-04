@@ -1,13 +1,14 @@
 ## Welcome to My GitHub Profile! 👋
 
 ## About Me
-I am a second-year computer science student at Ariel University and an aspiring software developer. \n
+I am a second-year computer science student at Ariel University and an aspiring software developer.
+
 In my role as a reservist C4I officer, I have gained valuable experience in radio and transmission systems, as well as in training, management, and mentoring.
 
 ## Skills 💻
-Programming Languages: Python, Java, C, C++, C#, Hack, Mips, Assembly \n
-Database Management: SQL, MongoDB, Cypher, XML, JSON \n
-Object-Oriented Programming (OOP) \n
+Programming Languages: Python, Java, C, C++, C#, Hack, Mips, Assembly
+Database Management: SQL, MongoDB, Cypher, XML, JSON
+Object-Oriented Programming (OOP)
 Version Control: Git, GitHub
 
 ## Additional Skills
