@@ -25,9 +25,6 @@ In my role as a reservist C4I officer, I have gained valuable experience in radi
 ![May's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MayRozen&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MayRozen&layout=compact&theme=radical)
 
-## GitHub Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=MayRozen&theme=radical)
-
 ## Contact
 Connect with me on [LinkedIn](https://www.linkedin.com/in/may-rozen-4b07bb324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app ) 🌐
 
