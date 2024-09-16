@@ -25,17 +25,14 @@ In my role as a reservist C4I officer, I have gained valuable experience in radi
 ![May's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MayRozen&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MayRozen&layout=compact&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayRozen&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MayRozen&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayRozen&layout=compact&theme=dark&hide_border=true&langs_count=10)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MayRozen&show_icons=true&count_private=true&theme=dark&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayRozen&layout=compact&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MayRozen&show_icons=true&count_private=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayRozen&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MayRozen&show_icons=true&count_private=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayRozen&layout=compact&theme=tokyo)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MayRozen&show_icons=true&count_private=true&theme=tokyo)
 
 
 
