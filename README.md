@@ -31,6 +31,10 @@ In my role as a reservist C4I officer, I have gained valuable experience in radi
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayRozen&layout=compact&theme=gruvbox&hide_border=true&langs_count=10)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MayRozen&show_icons=true&count_private=true&theme=gruvbox&hide_border=true)
 
+![May's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MayRozen&show_icons=true&count_private=true&theme=radical&hide_border=false&include_all_commits=true&show_owner=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MayRozen&layout=compact&theme=radical&hide_border=false&langs_count=10)
+
+
 
 
 
