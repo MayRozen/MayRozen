@@ -1,7 +1,7 @@
 ## Welcome to My GitHub Profile! 👋
 
 ## About Me
-I am a third-year computer science student at Ariel University and an aspiring software developer.<br>
+I am a third-year computer science and mathematics student at Ariel University and an aspiring software developer.<br>
 In my role as a reservist C4I officer, I have gained valuable experience in radio and transmission systems, as well as in training, management, and mentoring.
 
 ## Skills
