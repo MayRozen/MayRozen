@@ -14,11 +14,11 @@ I am passionate about software development, with strong interests in Machine Lea
 - **Version Control:** Git, GitHub
 
 ## Additional Skills
-Leadership and Team Management<br>
-Real-Time Decision Making<br>
-Communication and Interpersonal Skills<br>
-Training and Mentoring<br>
-Problem Solving and Critical Thinking<br>
+- Leadership and Team Management<br>
+- Real-Time Decision Making<br>
+- Communication and Interpersonal Skills<br>
+- Training and Mentoring<br>
+- Problem Solving and Critical Thinking<br>
 
 ## Featured Projects
 - [Santa Claus Algorithm Web App](https://github.com/MayRozen/App-Research-Algorithms): Flask-based fair allocation system with algorithmic backend and interactive UI.
