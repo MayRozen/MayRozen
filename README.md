@@ -25,7 +25,7 @@ Eager to contribute with a hands-on approach while continuously learning and gro
 - [Machine Learning Research Project](https://github.com/MayRozen/Machine-Learning): Comparative study of machine learning models on audio datasets. Includes audio preprocessing, feature extraction (MFCC, spectrograms, vectorization), and performance evaluation across multiple models.
 
 ## GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=MayRozen&layout=compact)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MayRozen&layout=compact&theme=graywhite&hide_border=true&langs_count=10)](https://github.com/MayRozen)
 
 ## Contact
 Connect with me on [LinkedIn](https://www.linkedin.com/in/may-rozen-4b07bb324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app ) 🌐
